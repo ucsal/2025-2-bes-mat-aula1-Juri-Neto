@@ -4,5 +4,3 @@ public abstract class User {
 
 	
 }
-
-
