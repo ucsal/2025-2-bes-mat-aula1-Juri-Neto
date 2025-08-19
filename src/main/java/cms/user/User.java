@@ -17,5 +17,4 @@ public User(int id, String nome, String email, String password) {
 }
 
 
-
 }
